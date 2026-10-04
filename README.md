@@ -1,16 +1,23 @@
-## Hi there 👋
+ ## I'm Adriana!
 
-<!--
-**adrkarolina/adrkarolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: I'm software engineering student!
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/adrkarolina)](https://github.com/adrkarolina)
+
+
+
+<a href="https://github.com/adrkarolina">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrkarolina&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/adrkarolina">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrkarolina&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+
+
+
