@@ -9,7 +9,7 @@
 
 
 <a href="https://github.com/adrkarolina">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrkarolina&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrkarolina&theme=dark&hide_langs_below=1&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/adrkarolina">
