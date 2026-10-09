@@ -2,7 +2,6 @@ name: Forçar Atualização do README
 
 on:
   schedule:
-    # Roda automaticamente a cada 6 horas
     - cron: '0 */6 * * *'
   push:
     branches:
@@ -11,19 +10,24 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Garante a permissão de escrita direto pelo código
     steps:
       - name: Checkout do código
         uses: actions/checkout@v4
 
       - name: Atualizar marcador invisível
         run: |
-          # Adiciona ou atualiza um comentário invisível no final do README com a data atual
+          # Remove a linha antiga se existir para não acumular sujeira no arquivo
+          sed -i '/Ultima atualizacao/d' README.md
+          # Adiciona a nova linha com a data atual
           echo "<!-- Ultima atualizacao: $(date +'%Y-%m-%d %H:%M:%S') -->" >> README.md
 
       - name: Commit e Push automático
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@://github.com"
           git add README.md
-          git commit -m "chore: atualizando cache dos cards de estatísticas" || echo "Sem mudanças"
-          git push
+          # O "|| true" evita que o comando quebre caso o arquivo não mude nada
+          git commit -m "chore: atualizando cache dos cards de estatísticas" || true
+          git push origin main || true
