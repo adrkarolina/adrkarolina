@@ -1,8 +1,26 @@
- ## I'm Adriana!
+ ## Oi, eu sou a Adriana!
 
-:computer: I'm software engineering student!
+</p>🎓 Estudante de Engenharia de Software<p>
+</p>💻 Em desenvolvimento na área de Backend com Java<p>
+</p>🔎 Buscando minha primeira oportunidade profissional em desenvolvimento de software.<p>
 
-## About me
+## Sobre mim
+</p>Atualmente, trabalho com suporte técnico, troubleshooting e resolução de problemas relacionados a sistemas. Essa experiência despertou meu interesse em compreender melhor como o software é construído e evolui.<p>
+
+</p>Estou aprofundando meus conhecimentos em Java, lógica de programação e orientação a objetos, desenvolvendo projetos práticos para consolidar minha base em desenvolvimento backend.<p>
+
+</p>Também tenho interesse em automação, infraestrutura e práticas DevOps, buscando entender o ciclo de vida do software além do código.<p>
+
+## Tecnologias e Feramentas
+- Linguagem: Java
+- Banco de dados: SQL
+- Versionamento: Git e GitHub
+- Em aprendizado: desenvolvimento backend e ferramentas do ecossistema Java
+
+## Projetos
+Aqui compartilho meus estudos, projetos práticos e minha evolução como desenvolvedora.
+</p>📌 Confira meus repositórios para acompanhar essa jornada!<p> 
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/adrkarolina)](https://github.com/adrkarolina)
 
