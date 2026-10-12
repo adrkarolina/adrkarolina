@@ -37,10 +37,10 @@ Aqui compartilho meus estudos, projetos práticos e minha evolução como desenv
 
 <p align="center">
   <a href="https://github.com/adrkarolina">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrkarolina&theme=dark&hide_langs_below=1&cache_seconds=0" alt="Shubhamdeep's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrkarolina&theme=dark&hide_langs_below=1&cache_seconds=400" alt="Shubhamdeep's github stats" />
   </a>
   <a href="https://github.com/adrkarolina">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrkarolina&show_icons=true&theme=dark&line_height=27&cache_seconds=0" alt="Shubhamdeep's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrkarolina&show_icons=true&theme=dark&line_height=27&cache_seconds=400" alt="Shubhamdeep's github stats" />
   </a>
 </p>
 
